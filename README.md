@@ -1,5 +1,6 @@
 ## Stegback Chatboat
-Custom Chatboat for dashboard and multiple E-Commerce website which automate support wrork to 30%
+Custom Chatboat for dashboard and multiple E-Commerce website which automate support wrork to 30% .
+
 🌍 Live Demo
 
 Check out the live project here: [Stegback chatboat](https://stegback.com/en)
@@ -26,6 +27,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ## Project deployed on vercel 
+
 
 
 
